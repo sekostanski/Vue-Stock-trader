@@ -1,3 +1,7 @@
+Check live http://vue.skostanski.pl/ 
+
+or
+
 # Vue Stock Trader
 
 ## Project setup
